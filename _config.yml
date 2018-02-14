@@ -1,10 +1,10 @@
 # Site settings
-title: BY Yang
-SEOTitle: 杨志强的博客 | BY Yang
+title: BY Blog
+SEOTitle: 志强的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: yangzqchn@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Yang, 志强的博客, yangzhiqiang, 杨志强, Android, Pixel"
+keyword: "BY, BY Blog, 志强的博客, yangzhiqiang, 杨志强, Android, Pixel"
 url: "http://yangzqchn.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yangzqchn/yangzqchn.github.io.git" # you code repository
